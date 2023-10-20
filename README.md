@@ -17,8 +17,14 @@ SPX372928:https://github.com/SPX372928/MyIPTV
 ---------------------------------------------------------------------------------------
 我的源：
 
+[全部.m3u](https://github.com/mctiantian2501314/m3u/raw/main/live.m3u)
+
+[cdn全部.m3u](https://cdn.jsdelivr.net/gh/mctiantian2501314/m3u@master/live.m3u
+)
+
+全部.txt
+
 [广东省肇庆市 移动iptv](https://cdn.jsdelivr.net/gh/mctiantian2501314/m3u@master/%E5%B9%BF%E4%B8%9C%E7%9C%81%E8%82%87%E5%BA%86%E5%B8%82%20%E7%A7%BB%E5%8A%A8iptv.m3u8)
 
-[黑龙江省 移动iptv1](https://cdn.jsdelivr.net/gh/mctiantian2501314/m3u@master/%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9C%81%20%E7%A7%BB%E5%8A%A8iptv1.m3u8)
-
 [黑龙江移动iptv](https://cdn.jsdelivr.net/gh/mctiantian2501314/m3u@master/%E9%BB%91%E9%BE%99%E6%B1%9F%E7%A7%BB%E5%8A%A8iptv.m3u8)
+
